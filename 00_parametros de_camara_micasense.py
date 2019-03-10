@@ -74,7 +74,7 @@ root.destroy()
 
 # Directorio de entrada de metadatos
 dir_met = filedialog.askdirectory(parent=root,
-    initialdir=r'C:/Users/Usuario/Desktop/micasense/',
+    initialdir=r'',
     title='Seleccionar el directorio de metadatos camera_parameters.txt')
 root.destroy()
 
