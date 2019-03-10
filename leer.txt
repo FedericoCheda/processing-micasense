@@ -1,0 +1,35 @@
+Scripts de corrección individual de imágenes Micasense
+
+'''
+ejecutar Anaconda Prompt como administrador
+-> cd path/script/python/micasense/ip
+-> python.exe sript_name.py
+'''
+  
+orden de ejecución
+
+1.
+01_get_metadata_ms.py
+
+2.
+02_set_align_ms_prm.py
+
+o
+
+2.
+02_set_align_ms_cv2.py
+
+
+3.
+03_1band_nd_rad_ref.py
+03_2band_nd_rad_ref.py
+03_3band_nd_rad_ref.py
+03_4band_nd_rad_ref.py
+03_5band_nd_rad_ref.py
+03_get_dls.py
+
+
+4.
+04_set_coordinates_ms.py
+04_set_coordinates_ms_3d.py
+5.
